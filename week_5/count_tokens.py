@@ -61,10 +61,14 @@ def count_tokens_in_file(file):
     # Convert file into a list of words using our 
     # tokenize_file method
     
-    # Create a data structure to hold tokens and their counts
-    # Which data structure would work best for this?
+    # Create a dictionary to hold the tokens and their counts
+    # Initialize an empty dictionary: example_dict = {}
     
     # Loop through the token list and update token counts
+    # Hints:
+    #   - Add an item to a dictionary using example_dict[item] = value
+    #   - Check if a key is in example_dict using the "in" operator. E.g.
+    #     if item in example_dict: print("ahoy")
     
     # Return token/count structure
     return
@@ -80,7 +84,10 @@ if __name__ == "__main__":
     # How many unique words are in the text?
     
     # What is the most popular word?
-    
+    # Hints:
+    #   - Iterate through a dictionary using example_dict.items(). This returns a
+    #      key, value pair. E.g. for key, value in example_dict.items()
+      
     
     
     
