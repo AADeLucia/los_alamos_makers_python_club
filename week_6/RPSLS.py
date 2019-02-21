@@ -1,5 +1,5 @@
 """
-Write a program that plays Rock, Paper, Scissors, Lizard, Spock
+Write a program that plays Rock, Paper, Scissors, Lizard, Spock.
 
 Rules of the game:
 - rock blunts scissors and crushes lizard
@@ -22,7 +22,26 @@ All the needed packages are imported for you.
 """
 from random import randint
 
+# Define the rules of the game
+instructions_string = """
+    Welcome to Rock, Paper, Scissors, Lizard, Spock! 
+    Rules of the game:
+    - rock blunts scissors and crushes lizard
+    - paper covers rock and disproves Spock
+    - scissors cuts paper and decapitates lizard
+    - lizard eats paper and poisons Spock
+    - Spock vaporizes rock and smashes scissors
+    
+    Possible moves are rock, paper, scissors, lizard, and Spock.
+    """
+
+
+# Define any functions you need here
+
+
 
 # Separate our main from the rest of the file
+# All the main logic will go here
 if __name__ == "__main__":
-    
+    # 1. Print the rules of the game
+    print(instructions_string)
