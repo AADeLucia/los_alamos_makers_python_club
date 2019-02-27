@@ -42,10 +42,22 @@ We wrote a program to count all the words in a file.
 * creating and iterating through dictionaries
 
 # Week 6: Wednesday, Feb 20
-Program "Rock, Paper, Scissors, Lizard, Spock". 
+Write a program to play "Rock, Paper, Scissors, Lizard, Spock". 
+
 ## Concepts
 * defining functions
-* looping
+* ``while`` loops
 * reading and validating input from console
+* using dictionaries
+
+
+# Week 7: Wednesdaym Feb 27
+Write a CSV parser.
+
+# Concepts
+* reading/writing files
+* delimiters
+* parsing
+
 
 
