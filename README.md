@@ -51,7 +51,7 @@ Write a program to play "Rock, Paper, Scissors, Lizard, Spock".
 * using dictionaries
 
 
-# Week 7: Wednesdaym Feb 27
+# Week 7: Wednesday, Feb 27
 Write a CSV parser.
 
 # Concepts
@@ -60,4 +60,6 @@ Write a CSV parser.
 * parsing
 
 
+# Week 8: Wednesday, March 6
+Intro to Pandas!
 
